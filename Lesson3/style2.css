@@ -1,0 +1,49 @@
+.clear{
+    clear: both;
+    }
+
+#calendar{
+    background: linear-gradient(45deg, blue,green);
+    width: 350px;
+    color: #fff;
+    border: 5px double black;
+}
+
+.calendar-head{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.calendar-day{
+    background: linear-gradient(45deg, blue,green);
+}
+
+.weed-day{
+    width: 50px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    
+
+}
+.calendar-days .day{
+    width: 50px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+}
+
+.calendar-days{
+    background: linear-gradient(45deg, blue,green);
+}
+
+.calendar-days .day.weekend{
+    color: red;
+}
+
+.calendar-days .day.current{
+    background:radial-gradient(circle,red,white);
+    border-radius: 50%;
+}
