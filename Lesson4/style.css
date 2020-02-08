@@ -1,0 +1,83 @@
+
+.fon{
+    width: 1280px;
+    height: 800px;
+    background: url(img/bg1.jpg) no-repeat center center;
+    background-size: cover;
+    position: relative;
+    border: green solid 5px;
+}
+
+.img1{
+    width: 60px;
+    position: absolute;
+    left: 20%;
+    bottom: 10%;
+}
+
+.img2{
+    width: 150px;
+    position: absolute;
+    left: 750px;
+    bottom: 50px;
+}
+
+.img3{
+    width: 60px;
+    position: absolute;
+    left: 750px;
+    bottom: 50px;
+}
+
+.img4{
+    width: 50px;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+}
+
+.img5{
+    width: 60px;
+    position: absolute;
+    left: 22%;
+    bottom: 26%;
+}
+
+.img6{
+    width: 100px;
+    position: absolute;
+    right:100px;
+    bottom: 150px;
+    z-index: 1;
+}
+
+.img7{
+    width: 50px;
+    position: absolute;
+    right: 130px;
+    bottom: 200px;
+    z-index: 2;
+}
+
+.img8{
+    width: 120px;
+    position: absolute;
+    right: 200px;
+    bottom: 150px;
+}
+
+.img9{
+    width: 300px;
+    position: absolute;
+    right: 40%;
+    bottom: 25%;
+}
+
+.img10{
+    width: 40px;
+    position: absolute;
+    left: 2%;
+    bottom: 27%;
+}
+   
+
