@@ -25,12 +25,8 @@ body{
     font-family: 'rusneverwinterregular';
 }
 
-
 .logo{
-    position: absolute;
-    right: 300px;
-    top: 5px;
-
+    float: right;
 }
 
 #menu, #menu ul{
@@ -124,9 +120,9 @@ body{
   }
 
   .leftmenu{
-      top: 530px;
-      position: absolute;
-      width: 550px;
+      float: left;
+      position: relative;
+      top: 220px;
       
   }
   .vertical-menu {
